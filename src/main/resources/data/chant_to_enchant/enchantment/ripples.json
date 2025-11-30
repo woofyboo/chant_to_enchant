@@ -1,0 +1,19 @@
+{
+  "description": { "translate": "enchantment.chant_to_enchant.ripples" },
+
+  "supported_items": "minecraft:elytra",
+  "primary_items":  "minecraft:elytra"
+,
+
+  "weight": 1,
+  "max_level": 1,
+
+  "min_cost": { "base": 5, "per_level_above_first": 8 },
+  "max_cost": { "base": 25, "per_level_above_first": 8 },
+  "anvil_cost": 10,
+
+  "slots": ["mainhand"],
+
+  "effects": {
+  }
+}

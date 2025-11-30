@@ -1,0 +1,19 @@
+{
+  "description": { "translate": "enchantment.chant_to_enchant.chain_reaction" },
+
+  "supported_items": "#c:tools/bow",
+  "primary_items":  "#c:tools/bow"
+,
+
+  "weight": 2,
+  "max_level": 5,
+
+  "min_cost": { "base": 5, "per_level_above_first": 8 },
+  "max_cost": { "base": 25, "per_level_above_first": 8 },
+  "anvil_cost": 8,
+
+  "slots": ["mainhand"],
+
+  "effects": {
+  }
+}

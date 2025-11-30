@@ -1,0 +1,19 @@
+{
+  "description": { "translate": "enchantment.chant_to_enchant.smelting" },
+
+  "supported_items": "#minecraft:enchantable/mining",
+  "primary_items":  "#minecraft:enchantable/mining"
+,
+
+  "weight": 1,
+  "max_level": 1,
+
+  "min_cost": { "base": 5, "per_level_above_first": 8 },
+  "max_cost": { "base": 25, "per_level_above_first": 8 },
+  "anvil_cost": 12,
+
+  "slots": ["mainhand"],
+
+  "effects": {
+  }
+}

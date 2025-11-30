@@ -1,0 +1,19 @@
+{
+  "description": { "translate": "enchantment.chant_to_enchant.heated_iron" },
+
+  "supported_items": "#c:tools/shield",
+  "primary_items":  "#c:tools/shield"
+,
+
+  "weight": 2,
+  "max_level": 2,
+
+  "min_cost": { "base": 5, "per_level_above_first": 8 },
+  "max_cost": { "base": 25, "per_level_above_first": 8 },
+  "anvil_cost": 2,
+
+  "slots": ["mainhand"],
+
+  "effects": {
+  }
+}

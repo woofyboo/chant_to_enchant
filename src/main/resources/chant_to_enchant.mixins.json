@@ -4,6 +4,9 @@
   "package": "org.conjuration.chant_to_enchant.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "MixinHumanoidArmorLayer",
+    "MixinItemInHandLayer",
+    "MixinBrain"
   ],
   "client": [
   ],

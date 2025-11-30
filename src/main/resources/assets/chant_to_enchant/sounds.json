@@ -1,0 +1,17 @@
+{
+  "preservation.activate": {
+    "sounds": [
+      { "name": "chant_to_enchant:preservation/activate", "stream": false }
+    ]
+  },
+  "preservation.hit": {
+    "sounds": [
+      { "name": "chant_to_enchant:preservation/hit", "stream": false }
+    ]
+  },
+  "preservation.break": {
+    "sounds": [
+      { "name": "chant_to_enchant:preservation/break", "stream": false }
+    ]
+  }
+}

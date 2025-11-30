@@ -1,5 +1,71 @@
 {
-  "itemGroup.chant_to_enchant": "Example Mod Tab",
-  "block.chant_to_enchant.example_block": "Example Block",
-  "item.chant_to_enchant.example_item": "Example Item"
+  "enchantment.chant_to_enchant.reflect": "Reflect",
+  "enchantment.chant_to_enchant.reflect.desc": "On block reflects projectiles back at the shooter.",
+
+  "enchantment.chant_to_enchant.heated_iron": "Heated Iron",
+  "enchantment.chant_to_enchant.heated_iron.desc": "On block ignites the attacker for a short time.",
+
+  "enchantment.chant_to_enchant.chain_reaction": "Chain Reaction",
+  "enchantment.chant_to_enchant.chain_reaction.desc": "Fires an additional arrow after a hit that seeks nearby mobs and can trigger this effect again.",
+
+  "enchantment.chant_to_enchant.bloodshot": "Bloodshot",
+  "enchantment.chant_to_enchant.bloodshot.desc": "Holding the bowstring beyond maximum tension consumes your health to empower the next shot.",
+
+  "enchantment.chant_to_enchant.earthquake": "Earthquake",
+  "enchantment.chant_to_enchant.earthquake.desc": "Transfers a portion of your fall damage to nearby mobs within a radius.",
+
+  "enchantment.chant_to_enchant.engaged": "Engaged",
+  "enchantment.chant_to_enchant.engaged.desc": "Mining speed increases when repeatedly breaking the same block type, otherwise decreases.",
+
+  "enchantment.chant_to_enchant.windblade": "Windblade",
+  "enchantment.chant_to_enchant.windblade.desc": "A charged attack summons windblades that deal extra damage and push enemies back.",
+
+  "enchantment.chant_to_enchant.hexlash": "Hexlash",
+  "enchantment.chant_to_enchant.hexlash.desc": "Applies negative effects on hit with a chance. If enough effects are present, they are consumed to greatly increase damage.",
+
+  "enchantment.chant_to_enchant.chains": "Chains",
+  "enchantment.chant_to_enchant.chains.desc": "Links up to five nearby targets, preventing them from moving or attacking for some time.",
+
+  "enchantment.chant_to_enchant.dedication": "Dedication",
+  "enchantment.chant_to_enchant.dedication.desc": "Deals increasing damage when repeatedly striking the same target, otherwise decreases.",
+
+  "enchantment.chant_to_enchant.outrunner": "Acceleration",
+  "enchantment.chant_to_enchant.outrunner.desc": "Sprinting gradually increases movement speed the longer you run.",
+
+  "enchantment.chant_to_enchant.step": "Step",
+  "enchantment.chant_to_enchant.step.desc": "Increases step height.",
+
+  "enchantment.chant_to_enchant.vortex": "Vortex",
+  "enchantment.chant_to_enchant.vortex.desc": "Creates a vortex that pulls mobs inward, dealing periodic damage and possibly causing fall damage.",
+
+  "enchantment.chant_to_enchant.redstone_charged": "Redstone Charged",
+  "enchantment.chant_to_enchant.redstone_charged.desc": "Consumes redstone dust to boost damage. Without redstone, damage is reduced.",
+
+  "enchantment.chant_to_enchant.tossing": "Tossing",
+  "enchantment.chant_to_enchant.tossing.desc": "Launches hit mobs into the air.",
+
+  "enchantment.chant_to_enchant.ripples": "Ripples",
+  "enchantment.chant_to_enchant.ripples.desc": "After diving into water, propels you upward and accelerates your movement.",
+
+  "enchantment.chant_to_enchant.stealth": "Stealth",
+  "enchantment.chant_to_enchant.stealth.desc": "After sneaking for some time, makes you completely invisible until entity received or dealt damage to someone.",
+
+  "enchantment.chant_to_enchant.gust": "Gust",
+  "enchantment.chant_to_enchant.gust.desc": "On hit has chance to create a streak of unavoidable hits over short period of time, every once in a while.",
+
+  "enchantment.chant_to_enchant.intuition": "Intuition",
+  "enchantment.chant_to_enchant.intuition.desc": "Exposes all angry enemies or players nearby.",
+
+  "enchantment.chant_to_enchant.smelting": "Smelting",
+  "enchantment.chant_to_enchant.smelting.desc": "Automatically smelts mined block drops, consuming extra durability.",
+
+  "enchantment.chant_to_enchant.ram": "Ram",
+  "enchantment.chant_to_enchant.ram.desc": "Sprint forward and raise your shield to unleash a powerful charge, blasting enemies away.",
+
+  "enchantment.chant_to_enchant.determination": "Determination",
+  "enchantment.chant_to_enchant.determination.desc": "When a lethal blow is taken, unleash a devastating blast and revive with restored health, sacrificing this enchantment in the process. As exchange decreases maximum health.",
+
+  "enchantment.chant_to_enchant.dodge": "Dodge",
+  "enchantment.chant_to_enchant.dodge.desc": "Sprinting allows to dodge incoming attacks briefly."
 }
+

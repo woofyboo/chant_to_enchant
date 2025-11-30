@@ -1,0 +1,19 @@
+{
+  "description": { "translate": "enchantment.chant_to_enchant.outrunner" },
+
+  "supported_items": "#minecraft:foot_armor",
+  "primary_items":  "#minecraft:foot_armor"
+,
+
+  "weight": 20,
+  "max_level": 2,
+
+  "min_cost": { "base": 5, "per_level_above_first": 8 },
+  "max_cost": { "base": 25, "per_level_above_first": 8 },
+  "anvil_cost": 2,
+
+  "slots": ["mainhand"],
+
+  "effects": {
+  }
+}
